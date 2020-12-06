@@ -9,3 +9,11 @@
   - :bulb: [Medium articles](https://medium.com/jbolla368)
   - :pencil2: [Tableau](https://public.tableau.com/profile/bolla.jagadish#!/)
   - :office: [LinkedIn](https://www.linkedin.com/in/jagadish-bolla/)
+  
+    Check out my latest articles
+    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0" alt="Recent Article 0">
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/1" alt="Recent Article 1">
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jbolla368/2" alt="Recent Article 2">
